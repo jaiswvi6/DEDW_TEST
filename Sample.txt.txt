@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sample data v4
+=======
+Sample data v3 
+>>>>>>> 8009bfd0543cc2af8b248b4eb051681675ad304b
